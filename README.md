@@ -4,11 +4,11 @@ Code for 2024 iConference Short Paper "Detecting the Rumor Patterns Integrating 
 Framework
 ---
 ## Overall Framework
-<img src='assets/f1-framework.pdf' width=800>
+<img src='assets/framework.png' width=600>
 
 ## Pipeline of Latent Feature Extraction by LLM
 ---
-<img src='assets/f2-chatgpt.pdf' width=800>
+<img src='assets/gpt.png' width=800>
 
 
 Findings
